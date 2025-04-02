@@ -1,4 +1,18 @@
 # depslib dependency file v1.0
-1742996934 source:c:\users\administrator\desktop\projects\control structure\main.cpp
+1743598153 source:c:\users\administrator\desktop\projects\control structure\main.cpp
+	<iostream>
+	"age_checker.h"
+	"stock_display.h"
+
+1743596135 source:c:\users\administrator\desktop\projects\control structure\age_checker.cpp
+	"age_checker.h"
+	<iostream>
+
+1743595250 c:\users\administrator\desktop\projects\control structure\age_checker.h
+
+1743597840 c:\users\administrator\desktop\projects\control structure\stock_display.h
+
+1743598303 source:c:\users\administrator\desktop\projects\control structure\stock_display.cpp
+	"stock_display.h"
 	<iostream>
 
